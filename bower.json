@@ -1,0 +1,15 @@
+{
+  "name": "A Statamic Site built with TFB Embryo",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public_html/components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass-official": "~3.1.1"
+  }
+}

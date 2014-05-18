@@ -1,0 +1,40 @@
+// Tablet
+@media (min-width: $phone_max + 1) and (max-width: $tablet_max) {
+
+  .main { height: 60%; }
+  .brand { width: 60%; }
+
+}
+
+
+
+// Desktop
+@media (min-width: $tablet_max + 1) {
+
+  .main { width: 780px; }
+
+  // Slogan
+  .line_1 { font-size: 120px; }
+  .line_2 {
+    font-size: 69px;
+
+    .track { letter-spacing: 1.13em; }
+  }
+  .line_3 {
+    font-size: 85px;
+  }
+
+  // Beasts
+  .beasts { font-size: 50px; }
+  .amp { font-size: 75px; }
+
+}
+
+
+
+// Horizontal
+@media (orientation: landscape) {
+
+  .beasts { margin-bottom: $space_vertical_large; }
+
+}

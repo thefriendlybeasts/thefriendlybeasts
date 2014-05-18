@@ -1,0 +1,18 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    The Friendly Beasts -- @beastsfriendly
+    --------------------------------------
+    Curtis Blackwell    -- @_cpb
+    Trevor Stinson      -- @aidje
+
+# THANKS
+
+    To those who contributed to creating the technologies listed below.
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    Normalize.css, jQuery, Modernizr
