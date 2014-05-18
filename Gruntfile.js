@@ -158,7 +158,6 @@ module.exports = function(grunt) {
 
     uncss: {
       build: {
-        // options: { htmlroot: '<%= tfb.dist %>' },
         files: {
           '<%= tfb.dist %>/css/tfb.css': '<%= tfb.dist %>/index.html'
         }
